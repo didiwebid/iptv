@@ -48,7 +48,7 @@ http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="News",TV One
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+http://go.didi.web.id/tvone
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040388.png" group-title="",TV9 PBNU
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040371.jpg" group-title="",IKIM
