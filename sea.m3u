@@ -966,6 +966,3 @@ http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m
 #EXTINF:-1 tvg-id="ZabbChannel.th" tvg-logo="https://i.imgur.com/4TMtUjW.png" group-title="Undefined",Zabb Channel (720p)
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 
-x-no-links: 1
-Content-type: text/html
-
